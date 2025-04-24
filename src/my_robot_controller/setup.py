@@ -23,6 +23,7 @@ setup(
             "talker = my_robot_controller.talker:main",
             "turtle_controller = my_robot_controller.turtle_controller:main",
             "msg_talker = my_robot_controller.msg_talker:main",
+            "obstacle_avoidance = my_robot_controller.obstacle_avoidance:main",
         ],
     },
 )
