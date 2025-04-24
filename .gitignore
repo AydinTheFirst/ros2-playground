@@ -1,0 +1,32 @@
+# ROS 2 build files
+/build/
+install/
+log/
+
+# Python-related
+*.pyc
+__pycache__/
+
+# CMake related files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+*.in
+*.out
+*.d
+
+# ROS 2 Python packages (if you have them)
+.rosinstall
+.rosdep
+build/
+install/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.bak
+*.tmp
